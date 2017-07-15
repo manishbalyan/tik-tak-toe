@@ -1,0 +1,39 @@
+.game {
+    display: flex;
+    flex-direction: row;
+}
+
+.game-info {
+    margin-left: 20px;
+}
+.record_matches{
+    font-size: 16px;
+    color: #4a4747;
+    margin-right: 50px;
+}
+.record_matches ol{
+
+}
+.game ol li{
+    text-align: left;
+    font-size: 14px;
+    color: #313131;
+    letter-spacing: 0.4px;
+}
+.status_game{
+    font-size: 16px;
+    color: #4a4747;
+    margin-left: 50px;
+    margin-top: 16px;
+}
+.game-info button{
+    padding: 10px 20px;
+    margin: 20px 0;
+    color: #fff;
+    background-color: #3a17a7;
+    border: none;
+    outline: none;
+    font-size: 17px;
+    letter-spacing: 0.6px;
+    border-radius: 4px;
+}
